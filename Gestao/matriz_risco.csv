@@ -1,6 +1,5 @@
 ID,Valor_Etico,Definicao,Parte_Interessada,Acao_Impacto,Intensidade,Probabilidade
-R001,Transparência,Sistema de diálogo informa detalhes de seu funcionamento,Clientes externo,Aumenta,Alta,Alta
-R002,Justiça,Nos diálogos trata as pessoas por sr e sra evitando linguagem ofensiva,Clientes externo,Minimiza,Baixa,Baixa
-R003,Privacidade,Pessoas podem informar dados pessoais. O chatbot deve descartar,Clientes externo,Aumenta,Média,Média
-R004,Não-maleficência,Sistema previne respostas com desinformação ou preconceito,Desenvolvedores,Minimiza,Média,Baixa
-R005,Privacidade,o sistema garante o sigilo dos dados,Clientes externos,Minimiza,Média,Média
+R001,Transparência,os emails devem ser classificados segundo regras claras para clientes e colaboradores,Clientes externo,Minimiza,Média,Média
+R002,Transparência,a classificacao deve ser clara para os colaboradores,Clientes interno,Minimiza,Média,Média
+R003,Privacidade,os dados dos clientes devem estar protegidos pela LGPD,Desenvolvedores,Aumenta,Alta,Alta
+R004,Solidariedade,o sistema deve ser solidario com as pessoas,Sociedade / Geral,Minimiza,Baixa,Baixa

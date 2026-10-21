@@ -220,7 +220,7 @@ def exibir_tabela_terminal(df, weight_int, weight_prob):
     table.add_column("Risco", justify="center", width=8)
     table.add_column("ID", style="dim", width=6)
     table.add_column("Valor Ético", style="cyan", width=16)
-    table.add_column("Definição / Contexto do AIS", style="white")
+    table.add_column("Definição / Contexto do AIS", style="blue")
     table.add_column("Parte Interessada", style="blue", width=18)
     table.add_column("Ação", justify="center", width=10)
     table.add_column("Intensidade", justify="center", width=11)
